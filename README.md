@@ -280,8 +280,9 @@ if __name__ == "__main__":
 <hr>
 <h2>OUTPUT</h2>
 
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="938" height="752" alt="image" src="https://github.com/user-attachments/assets/a3c19759-180e-40bd-bb24-c1890c353c0c" />
+
+<img width="812" height="644" alt="image" src="https://github.com/user-attachments/assets/463032bf-3869-4c4f-9468-d293a69946c6" />
 
 <hr>
 <h2>Result:</h2>
